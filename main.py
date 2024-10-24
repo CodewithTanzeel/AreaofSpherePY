@@ -2,8 +2,7 @@
 
 def sphere_area(radius):
     """
-    Calculate the surface area of a sphere given its radius.
-    
+    Calculate the surface area of a sphere given its radius.    
     Formula: 4 * π * r^2
     """
     pi = 3.142
