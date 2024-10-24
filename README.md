@@ -1,4 +1,4 @@
-H# Area of Sphere Using Python
+# Area of Sphere Using Python
 
 This repository contains a Python script that calculates the surface area of a sphere. The program prompts the user for the radius and computes the area using the formula:
 
